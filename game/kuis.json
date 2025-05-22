@@ -1,0 +1,251 @@
+[
+  {
+    "question": "Apa ibukota Indonesia?",
+    "options": {
+      "A": "Jakarta",
+      "B": "Bandung",
+      "C": "Surabaya"
+    },
+    "answer": "A",
+    "explanation": "Jakarta telah menjadi ibukota Indonesia sejak tahun 1945."
+  },
+  {
+    "question": "Planet terdekat dari Matahari adalah?",
+    "options": {
+      "A": "Venus",
+      "B": "Bumi",
+      "C": "Merkurius"
+    },
+    "answer": "C",
+    "explanation": "Merkurius adalah planet terkecil dan terdekat dengan Matahari dalam tata surya kita."
+  },
+  {
+    "question": "Berapakah hasil dari 7 × 8?",
+    "options": {
+      "A": "54",
+      "B": "56",
+      "C": "64"
+    },
+    "answer": "B",
+    "explanation": "Perkalian 7 × 8 menghasilkan 56."
+  },
+  {
+    "question": "Siapa penemu bola lampu?",
+    "options": {
+      "A": "Thomas Edison",
+      "B": "Nikola Tesla",
+      "C": "Alexander Graham Bell"
+    },
+    "answer": "A",
+    "explanation": "Thomas Edison dikenal sebagai penemu bola lampu pijar praktis pertama."
+  },
+  {
+    "question": "Apa warna primer?",
+    "options": {
+      "A": "Merah, Kuning, Biru",
+      "B": "Merah, Hijau, Biru",
+      "C": "Merah, Kuning, Hijau"
+    },
+    "answer": "A",
+    "explanation": "Warna primer dalam teori warna tradisional adalah Merah, Kuning, dan Biru."
+  },
+  {
+    "question": "Berapa jumlah hari dalam seminggu?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7"
+    },
+    "answer": "C",
+    "explanation": "Satu minggu terdiri dari 7 hari: Senin sampai Minggu."
+  },
+  {
+    "question": "Binatang apa yang dikenal sebagai 'Raja Hutan'?",
+    "options": {
+      "A": "Harimau",
+      "B": "Singa",
+      "C": "Gajah"
+    },
+    "answer": "B",
+    "explanation": "Singa sering disebut sebagai Raja Hutan meskipun sebenarnya hidup di sabana."
+  },
+  {
+    "question": "Apa warna daun yang sehat?",
+    "options": {
+      "A": "Hijau",
+      "B": "Kuning",
+      "C": "Coklat"
+    },
+    "answer": "A",
+    "explanation": "Daun yang sehat berwarna hijau karena mengandung klorofil."
+  },
+  {
+    "question": "Berapa jumlah sisi segitiga?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4"
+    },
+    "answer": "B",
+    "explanation": "Segitiga memiliki 3 sisi dan 3 sudut."
+  },
+  {
+    "question": "Alat apa yang digunakan untuk mengukur suhu?",
+    "options": {
+      "A": "Termometer",
+      "B": "Barometer",
+      "C": "Speedometer"
+    },
+    "answer": "A",
+    "explanation": "Termometer adalah alat untuk mengukur suhu tubuh atau suhu ruangan."
+  },
+  {
+    "question": "Buah apa yang kulitnya berduri?",
+    "options": {
+      "A": "Durian",
+      "B": "Mangga",
+      "C": "Jeruk"
+    },
+    "answer": "A",
+    "explanation": "Durian dikenal sebagai raja buah dan memiliki kulit berduri tajam."
+  },
+  {
+    "question": "Berapa jumlah bulan dalam setahun?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15"
+    },
+    "answer": "B",
+    "explanation": "Satu tahun terdiri dari 12 bulan, dari Januari sampai Desember."
+  },
+  {
+    "question": "Apa nama mata uang Jepang?",
+    "options": {
+      "A": "Yen",
+      "B": "Dollar",
+      "C": "Euro"
+    },
+    "answer": "A",
+    "explanation": "Mata uang Jepang disebut Yen (¥)."
+  },
+  {
+    "question": "Berapa 10 + 15?",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "30"
+    },
+    "answer": "B",
+    "explanation": "10 ditambah 15 sama dengan 25."
+  },
+  {
+    "question": "Apa nama benua terbesar di dunia?",
+    "options": {
+      "A": "Afrika",
+      "B": "Eropa",
+      "C": "Asia"
+    },
+    "answer": "C",
+    "explanation": "Asia adalah benua terbesar di dunia baik luas maupun populasi."
+  },
+  {
+    "question": "Apa warna langit yang cerah?",
+    "options": {
+      "A": "Merah",
+      "B": "Biru",
+      "C": "Hijau"
+    },
+    "answer": "B",
+    "explanation": "Langit tampak biru karena hamburan Rayleigh dari sinar matahari."
+  },
+  {
+    "question": "Berapa jumlah roda mobil?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6"
+    },
+    "answer": "B",
+    "explanation": "Mobil pada umumnya memiliki 4 roda."
+  },
+  {
+    "question": "Apa nama ibukota Malaysia?",
+    "options": {
+      "A": "Jakarta",
+      "B": "Kuala Lumpur",
+      "C": "Bangkok"
+    },
+    "answer": "B",
+    "explanation": "Kuala Lumpur adalah ibukota Malaysia."
+  },
+  {
+    "question": "Apa nama buah yang berasal dari bunga?",
+    "options": {
+      "A": "Pisang",
+      "B": "Mangga",
+      "C": "Semangka"
+    },
+    "answer": "B",
+    "explanation": "Mangga berasal dari bunga yang berkembang menjadi buah."
+  },
+  {
+    "question": "Berapa jumlah huruf dalam alfabet Inggris?",
+    "options": {
+      "A": "24",
+      "B": "26",
+      "C": "28"
+    },
+    "answer": "B",
+    "explanation": "Alfabet Inggris terdiri dari 26 huruf dari A sampai Z."
+  },
+  {
+    "question": "Apa warna bendera Indonesia?",
+    "options": {
+      "A": "Merah dan Putih",
+      "B": "Merah dan Biru",
+      "C": "Hijau dan Kuning"
+    },
+    "answer": "A",
+    "explanation": "Bendera Indonesia berwarna merah di atas dan putih di bawah."
+  },
+  {
+    "question": "Berapa jumlah kaki laba-laba?",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "10"
+    },
+    "answer": "B",
+    "explanation": "Laba-laba memiliki 8 kaki."
+  },
+  {
+    "question": "Apa nama buah yang bisa mengapung di air?",
+    "options": {
+      "A": "Apel",
+      "B": "Pisang",
+      "C": "Semangka"
+    },
+    "answer": "A",
+    "explanation": "Apel bisa mengapung di air karena 25% volumenya adalah udara."
+  },
+  {
+    "question": "Berapa 100 dibagi 4?",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "30"
+    },
+    "answer": "B",
+    "explanation": "100 dibagi 4 sama dengan 25."
+  },
+  {
+    "question": "Apa nama hewan yang bisa mengubah warna kulit?",
+    "options": {
+      "A": "Bunglon",
+      "B": "Ular",
+      "C": "Katak"
+    },
+    "answer": "A",
+    "explanation": "Bunglon dapat mengubah warna kulitnya untuk kamuflase."
+  }
